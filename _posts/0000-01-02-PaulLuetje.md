@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our GitHub Feature slide!"
 ---
-This is PaulLuetje's Slide   even more stuff
+This is my awesome slide
 Use the left arrow to go back!
